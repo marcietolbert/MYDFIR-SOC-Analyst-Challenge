@@ -1,4 +1,4 @@
-# Practical Malware Analysis and Triage
+# SillyPutty
 
 ## Objective
 [Brief Objective - Remove this afterwards]
