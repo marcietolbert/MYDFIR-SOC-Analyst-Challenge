@@ -16,15 +16,15 @@ The MYDIFIR SOC Analyst Challenge, created by Steven of the YouTube channel <a h
 
 - Draw.io for logcial diagramming.
 - ELK for log analysis and management.
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- *Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- *Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+- *Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Challenge Weeks
+Week One
 
-Every screenshot should have some text explaining what the screenshot is about.
+Week Two
 
-Example below.
+Week Three
 
-*Ref 1: Network Diagram*
+Week Four
