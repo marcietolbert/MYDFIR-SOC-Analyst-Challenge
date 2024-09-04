@@ -13,8 +13,9 @@ The MYDIFIR SOC Analyst Challenge, created by Steven of the YouTube channel <a h
 - How to setup and intergrate a ticketing system.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
+- Draw.io for logcial diagramming.
+- ELK for log analysis and management.
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
