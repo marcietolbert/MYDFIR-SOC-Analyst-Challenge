@@ -1,4 +1,4 @@
-# SillyPutty
+# MYDIFR SOC Analyst Challenge
 
 ## Objective
 [Brief Objective - Remove this afterwards]
