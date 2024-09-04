@@ -20,11 +20,7 @@ The MYDIFIR SOC Analyst Challenge, created by Steven of the YouTube channel <a h
 - *Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - *Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Challenge Weeks
-Week One
+## Challenge Tasks
+Logical Diagram Creation
 
-Week Two
-
-Week Three
-
-Week Four
+ELK Stack Setup
