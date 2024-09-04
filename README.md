@@ -2,9 +2,7 @@
 
 ## Overview
 
-The MYDIFIR SOC Analyst Challenge, created by Steven of the YouTube channel <a href="https://www.youtube.com/@MyDFIR">MyDFIR</a> is a 30-day challenge. The goal of this writeup is to showcase the pracital knowledge and experience I've obtained over the course of the challenge and how it was applied within a simulated SOC enviroment. For more information about the challenge the playlist can be accessed <a href="https://www.youtube.com/watch?v=W3ExS2m6B24&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&index=1">here</a>.  
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The MYDIFIR SOC Analyst Challenge, created by Steven of the YouTube channel <a href="https://www.youtube.com/@MyDFIR">MyDFIR</a> is a 30-day challenge aimed at helping aspiring SOC Analysts gain real-world practical experience through the setup and configuration of a realistic SOC enviroment. This challenge not only tasks the SOC Analyst with the creation of a cloud-based lab enviroment using VLTUR, but also tasks the analyst with mimicking real-world attack scenarios for detection and investigation. The goal of this writeup is to showcase how the pracital knowledge and experience I've obtained over the course of this challenge was applied within a simulated SOC enviroment. For more information about the challenge the playlist can be found <a href="https://www.youtube.com/watch?v=W3ExS2m6B24&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&index=1">here</a>.  
 
 ### Skills Learned
 
