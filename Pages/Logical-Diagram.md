@@ -8,6 +8,11 @@ So, just what is a logical diagram? First, I'll start by defining what a network
 
 In contrast, a logical network diagram shows how devices communicate with each other. Similar to a physical diagram, a logical diagram depicts various devices within an environment. However, instead of the lines representing physical cabling, the lines represent data flow. Therefore, I need to create a network diagram that depicts both the devices within the environment and how data flows between them.
 
+Here are some of the most common types of symbols that can be found in a logical diagram.
+
+![image7-3](https://github.com/user-attachments/assets/08c5f8f3-1465-43b6-8e27-b4a576a825e7)
+Photo: via Miro
+
 ## Logical Diagram Requirements
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
