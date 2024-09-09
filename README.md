@@ -21,6 +21,6 @@ The MYDIFIR SOC Analyst Challenge, created by Steven of the YouTube channel <a h
 - *Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Challenge Tasks
-<a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge/Pages/Logical-Diagram">Logical Diagram</a>
+<a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge/blob/main/Pages/Logical-Diagram.md">Logical Diagram</a>
 
 ELK Stack Setup
