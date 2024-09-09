@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Logical Diagram
 
 ## Objective
 [Brief Objective - Remove this afterwards]
