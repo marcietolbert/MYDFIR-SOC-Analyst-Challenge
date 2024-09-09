@@ -1,7 +1,7 @@
 # Logical Diagram
 
 ## Introduction
-In the MYDFIR SOC Analyst Challenge, day one required me to create a logical diagram for the project. I was excited to tackle this task as I quickly saw the importance of having the ability to construct logical diagrams. What follows is me explaining the technical aspects of creating both a static and an animated diagram. First, however, let's explore network diagramming theory.
+In the MYDFIR SOC Analyst Challenge, day one required me to create a logical diagram for the project. I was eager to tackle this task as I understood the importance of being able to create logical diagrams. In the passages that follow, I will explain the technical aspects of creating both a static and animated diagram. First, however, let's delve into the theory of network diagrams.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
