@@ -3,9 +3,7 @@
 ## Introduction
 In the MYDFIR SOC Analyst Challenge, day one required me to create a logical diagram for the project. I was eager to tackle this task as I understood the importance of being able to create logical diagrams. In the passages that follow, I will explain the technical aspects of creating both a static and animated diagram. First, however, let's delve into the theory of network diagrams.
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
-
+##What is a Logical Diagram
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
