@@ -1,9 +1,7 @@
 # Logical Diagram
 
 ## Introduction
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Welcome to day one of the MYDFIR SOC Analyst Challenge. In day one of the challenge I have been tasked with creating a logical diagram for the project. I'm excited to tackle this task as I have never created a diagram of any kind before, but before I jump into the technical aspects of creating a logical diagram, let's talk some theory.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
