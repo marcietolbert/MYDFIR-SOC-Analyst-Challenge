@@ -4,11 +4,9 @@
 In the MYDFIR SOC Analyst Challenge, day one required me to create a logical diagram for the project. I was eager to tackle this task as I understood the importance of being able to create logical diagrams. In the passages that follow, I will explain the technical aspects of creating both a static and animated diagram. First, however, let's delve into the theory of network diagrams.
 
 ## What is a Logical Diagram
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+So, just what is a logical diagram? First, I'll start by defining what a network diagram is. A network diagram is a visual representation of a computer or telecommunications network that uses icons and lines to depict the devices within an environment and how they are connected. Network diagrams can fall into two categories: physical and logical. A physical diagram illustrates the physical components and connections within a network. In a physical diagram, icons represent the different devices in the environment, while the lines show the cable connections between the devices. 
+
+In contrast, a logical network diagram shows how devices communicate with each other. Similar to a physical diagram, a logical diagram depicts various devices within an environment. However, instead of the lines representing physical cabling, the lines represent data flow. Therefore, I need to create a network diagram that depicts both the devices within the environment and how data flows between them.
 
 ## Logical Diagram Requirements
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
