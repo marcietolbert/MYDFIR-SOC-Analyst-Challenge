@@ -20,6 +20,17 @@ Photo: via <a href="https://miro.com/blog/network-diagram/">Miro</a>
 ## Logical Diagram Requirements
 To begin constructing the logical diagram that will serve as the visual representation of the SOC environment I am building, I need to know what devices and environments I need to include in the diagram. The day-one video mentioned that my diagram should include the Internet, a Vultr cloud, a VPC (virtual private cloud), six servers, an Internet Gateway, and two computers. I'll be using Draw.io to create my logical diagram.
 
+The devices to be depicted in the diagram are as follows:
+- Elastic & Kibana Server
+- Windows Server (RDP enabled)
+- Ubuntu Server (SSH enabled)
+- Fleet Server
+- osTicket Server
+- C2 Server (Mythic)
+- Internet Gateway (Internet Service Provider)
+- Computer (SOC Analyst laptop)
+- Computer (Attacker laptop, Kali Linux OS)
+
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
