@@ -31,7 +31,7 @@ The devices to be depicted in the diagram are as follows:
 - Computer (SOC Analyst laptop)
 - Computer (Attacker laptop, Kali Linux OS)
 
-## Steps
+## Technical Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
