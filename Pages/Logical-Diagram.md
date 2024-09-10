@@ -30,7 +30,8 @@ The devices to be depicted in the diagram are as follows:
 - Internet Gateway (Internet Service Provider)
 - Computer (SOC Analyst laptop)
 - Computer (Attacker laptop, Kali Linux OS)
-
+<br>
+<br>
 The diagram should also include the following information about the VPC network:
 - Private Network: 172.31.0.0/24
 - IP Range: 172.31.0.1-254
