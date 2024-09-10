@@ -12,7 +12,8 @@ Here are some of the most common types of symbols that can be found in a logical
 
 ![image7-3](https://github.com/user-attachments/assets/08c5f8f3-1465-43b6-8e27-b4a576a825e7)
 Photo: via Miro
-
+<br>
+<br>
 ![image1-10](https://github.com/user-attachments/assets/f4885289-be80-4347-a1c4-8406e79b23bd)
 Photo: via Miro
 
