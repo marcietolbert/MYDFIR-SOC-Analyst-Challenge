@@ -31,6 +31,11 @@ The devices to be depicted in the diagram are as follows:
 - Computer (SOC Analyst laptop)
 - Computer (Attacker laptop, Kali Linux OS)
 
+The diagram should also include the following information about the VPC network:
+- Private Network: 172.31.0.0/24
+- IP Range: 172.31.0.1-254
+- Subnet Mask: 255.255.255.0
+
 ## Technical Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
