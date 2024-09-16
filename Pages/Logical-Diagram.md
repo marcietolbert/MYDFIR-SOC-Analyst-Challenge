@@ -48,5 +48,21 @@ This section will cover where the devices for this project are placed in the env
 *Image 2: Animated Logical Diagram*
 
 The images above are the static and animated logical diagrams I created for this project. The breakdown of the devices and connections are as follows:
+- Vultr cloud
+- VPC 
+- The Windows and Ubuntu Servers are connected to the Fleet Server with managed connections
+- The Fleet Server is connected to the Elastic/Kibana Server with a bidirectional connection that indicates there are managed agents
+- The osTicket Server is connected to the Elastic/Kibana Server with a bidirectional connection indicates alerts/tickets information is being passed between the two
+- The Windows and Ubuntu Servers need to be connected to the Elastic/Kibana Server with a connection that indicates that logs are being forwarded via agent from each server to the Elastic/Kibana Server
+- The Internet icon is connected to the Internet Gateway
+- The Internet Gateway is connected to VPC
+- The SOC Analyst Laptop is connected to the Internet with a connection that indicates it can connect to the Elastic/Kibana Server via a web GUI
+- The Attacker Laptop and the C2 Server are connected to the Internet
 
+For a cleaner presentation:
+- All of the connections should be changed to straight lines
+- All connections to the Elastic/Kibana Server and the osTicket Server should be dashed
+- If the icons chosen to be used can be colored they chould be to differentiate the devices from one another
+- The connections from the Elastic/Kibana Server to the Fleet and osTicket Servers should be set to two different colors
 
+Please note that the diagrams above are not final and will be updated as the enviroment is establised. This, however, is a great start to visualizing what the intented enviroment will looke like and how it will function.
