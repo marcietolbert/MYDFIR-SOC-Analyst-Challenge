@@ -36,11 +36,17 @@ The diagram should also include the following information about the VPC network:
 - IP Range: 172.31.0.1-254
 - Subnet Mask: 255.255.255.0
 
-## Technical Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Device Connections and Data Flow
+This section will cover where the devices for this project are placed in the enviroment and how show how data will flow between them. 
+<br>
+<br>
 
-Every screenshot should have some text explaining what the screenshot is about.
+*Image 1: Static Logical Diagram*
+<br>
+<br>
 
-Example below.
+*Image 2: Animated Logical Diagram*
 
-*Ref 1: Network Diagram*
+The images above are the static and animated logical diagrams I created for this project. The breakdown of the devices and connections are as follows:
+
+
