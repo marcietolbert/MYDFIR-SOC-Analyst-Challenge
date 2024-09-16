@@ -52,7 +52,7 @@ The images above are the static and animated logical diagrams I created for this
 - VPC - contains
 - The Windows and Ubuntu Servers are connected to the Fleet Server with managed connections
 - The Fleet Server is connected to the Elastic/Kibana Server with a bidirectional connection that indicates there are managed agents
-- The osTicket Server is connected to the Elastic/Kibana Server with a bidirectional connection indicates alerts/tickets information is being passed between the two
+- The osTicket Server is connected to the Elastic/Kibana Server with a bidirectional connection that indicates alerts/tickets information is being passed between the two
 - The Windows and Ubuntu Servers need to be connected to the Elastic/Kibana Server with a connection that indicates that logs are being forwarded via agent from each server to the Elastic/Kibana Server
 - The Internet icon is connected to the Internet Gateway
 - The Internet Gateway is connected to VPC
