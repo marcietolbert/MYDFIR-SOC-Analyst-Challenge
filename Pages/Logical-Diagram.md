@@ -11,11 +11,11 @@ In contrast, a logical network diagram shows how devices communicate with each o
 Here are some of the most common types of symbols that can be found in a logical diagram.
 
 ![image7-3](https://github.com/user-attachments/assets/08c5f8f3-1465-43b6-8e27-b4a576a825e7)
-  Photo: via <a href="https://miro.com/blog/network-diagram/">Miro</a>
+*Photo: via <a href="https://miro.com/blog/network-diagram/">Miro</a>*
 <br>
 <br>
 ![image1-10](https://github.com/user-attachments/assets/f4885289-be80-4347-a1c4-8406e79b23bd)
-Photo: via <a href="https://miro.com/blog/network-diagram/">Miro</a>
+*Photo: via <a href="https://miro.com/blog/network-diagram/">Miro</a>*
 
 ## Logical Diagram Requirements
 To begin constructing the logical diagram that will serve as the visual representation of the SOC environment I am building, I need to know what devices and environments I need to include in the diagram. The day-one video mentioned that my diagram should include the Internet, a Vultr cloud, a VPC (virtual private cloud), six servers, an Internet Gateway, and two computers. I'll be using Draw.io to create my logical diagram.
