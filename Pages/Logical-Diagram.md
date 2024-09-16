@@ -37,7 +37,7 @@ The diagram should also include the following information about the VPC network:
 - Subnet Mask: 255.255.255.0
 
 ## Device Connections and Data Flow
-This section will cover where the devices for this project are placed in the enviroment and how show how data will flow between them. 
+This section will cover where the devices for this project are placed in the enviroment and how data flows between them. 
 <br>
 <br>
 
