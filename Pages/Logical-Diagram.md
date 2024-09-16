@@ -65,4 +65,4 @@ For a cleaner presentation:
 - If the icons chosen to be used can be colored they chould be to differentiate the devices from one another
 - The connections from the Elastic/Kibana Server to the Fleet and osTicket Servers should be set to two different colors
 
-Please note that the diagrams above are not final and will be updated as the enviroment is establised. This, however, is a great start to visualizing what the intented enviroment will looke like and how it will function.
+Please note that the diagrams above are not final and will be updated as the enviroment is establised. This, however, is a great start to visualizing what the intented enviroment will look like and how it will function.
