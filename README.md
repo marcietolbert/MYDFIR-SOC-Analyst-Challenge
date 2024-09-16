@@ -22,6 +22,24 @@ The MYDIFIR SOC Analyst Challenge, created by Steven of the YouTube channel <a h
 - *Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Challenge Tasks
-<a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge/blob/main/Pages/Logical-Diagram.md">Logical Diagram</a>
+**Day One:** <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge/blob/main/Pages/Logical-Diagram.md">Logical Diagram</a>
 
-ELK Stack Setup
+**Day Two-Four:** Elasticserach and Kibana Setup
+
+**Day Five:** Windows Server 2002 Installation
+
+**Day Six-Seven:** Elastic Agent and Fleet Server Setup
+
+**Day Eight-Nine:** Sysmon Setup
+
+**Day Ten:** Elasticsearch Ingest Data Tutorial
+
+**Day Eleven:** Burte Force Attack
+
+**Day Twelve:** Ubuntu Server 24.02 Installation
+
+**Day Thirteen:** Installing Elastic Agent on Ubuntu
+
+**Day Fourteen | Day Sixteen | Day | Day :** 
+
+**Day 15 | Day :**
