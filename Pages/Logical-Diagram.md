@@ -8,7 +8,7 @@ So, just what is a logical diagram? First, I'll start by defining what a network
 
 A physical diagram illustrates the physical components and connections within a network through the use of icons (physical components) and lines (cable connections). In contrast, a logical network diagram shows how devices communicate with each other. Similar to a physical diagram, a logical diagram depicts various devices within an environment. However, instead of the lines representing physical cabling, the lines represent data flow. 
 
-Therefore, I need to create a network diagram that depicts both the devices within the environment and how data flows between them.
+Therefore, I need to create a network diagram that depicts the devices that will exist within the SOC environment and the data flow between them.
 
 Here are some of the most common types of symbols that can be found in a logical diagram.
 
