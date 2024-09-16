@@ -18,7 +18,7 @@ Here are some of the most common types of symbols that can be found in a logical
 *Photo: via <a href="https://miro.com/blog/network-diagram/">Miro</a>*
 
 ## Logical Diagram Requirements
-To begin constructing the logical diagram that will serve as the visual representation of the SOC environment I am building, I need to know what devices and environments I need to include in the diagram. The day-one video mentioned that my diagram should include the Internet, a Vultr cloud, a VPC (virtual private cloud), six servers, an Internet Gateway, and two computers. I'll be using Draw.io to create my logical diagram.
+To begin constructing the logical diagram for this project I need to know what devices and environments to include in the diagram. The day-one video mentioned that my diagram should include the Internet, a Vultr cloud, a VPC (virtual private cloud), six servers, an Internet Gateway, and two computers. I'll be using Draw.io to create my logical diagram.
 
 The devices to be depicted in the diagram are as follows:
 - Elastic & Kibana Server
