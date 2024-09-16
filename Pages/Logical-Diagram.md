@@ -6,7 +6,7 @@ In the MYDFIR SOC Analyst Challenge, day one required me to create a logical dia
 ## What is a Logical Diagram
 So, just what is a logical diagram? First, I'll start by defining what a network diagram is. A network diagram is a visual representation of a computer or telecommunications network that uses icons and lines to depict the devices within an environment and how they are connected. Network diagrams can fall into two categories: physical and logical. 
 
-A physical diagram illustrates the physical components and connections within a network through the use of icons (physical components) and lines (cable connections). In contrast, a logical network diagram shows how devices communicate with each other. Similar to a physical diagram, a logical diagram depicts various devices within an environment. However, instead of the lines representing physical cabling, the lines represent data flow. 
+A physical diagram illustrates the physical components and connections within a network through the use of icons (physical components) and lines (cable connections). In contrast, a logical diagram shows how devices communicate with each other. However, instead of the lines representing physical cabling, the lines represent data flow. 
 
 Therefore, I need to create a network diagram that depicts the devices that will exist within the SOC environment and the data flow between them.
 
