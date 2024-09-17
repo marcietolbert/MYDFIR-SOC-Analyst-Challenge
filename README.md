@@ -6,20 +6,20 @@ The MYDIFIR SOC Analyst Challenge, created by Steven of the YouTube channel <a h
 
 ### Skills Learned
 
-- How to draw a logical diagram.
-- How to setup and configure ELK.
-- How to attack, detect, and investigate.
-- How to create alerts and dashboards.
-- How to setup and intergrate a ticketing system.
+- How to draw a logical diagram
+- How to setup and configure ELK
+- How to attack, detect, and investigate
+- How to create alerts and dashboards
+- How to setup and intergrate a ticketing system
 
 ### Tools Used
 
-- Draw.io for logcial diagramming.
-- Vultr for provisioning cloud instances.
-- ELK for log analysis and management.
-- *Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- *Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- *Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Draw.io for logcial diagramming
+- Vultr for provisioning cloud instances
+- ELK for log analysis and management
+- *Security Information and Event Management (SIEM) system for log ingestion and analysis
+- *Network analysis tools (such as Wireshark) for capturing and examining network traffic
+- *Telemetry generation tools to create realistic network traffic and attack scenarios
 
 ## Challenge Tasks
 **Day One:** <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge/blob/main/Pages/Logical-Diagram.md">Logical Diagram</a>
