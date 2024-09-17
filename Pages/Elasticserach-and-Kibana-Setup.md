@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Elasticsearch and Kibana Setup
 
 ## Objective
 [Brief Objective - Remove this afterwards]
