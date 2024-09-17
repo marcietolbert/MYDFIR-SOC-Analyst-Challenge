@@ -41,6 +41,8 @@ This section will cover where the devices for this project are placed in the env
 <br>
 <br>
 
+![Logical_Diagram drawio](https://github.com/user-attachments/assets/4306548f-f2d7-4376-900d-161734268370)
+
 *Image 1: Static Logical Diagram*
 <br>
 <br>
