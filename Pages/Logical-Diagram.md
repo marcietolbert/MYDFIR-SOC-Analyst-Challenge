@@ -48,8 +48,8 @@ This section will cover where the devices for this project are placed in the env
 *Image 2: Animated Logical Diagram*
 
 The images above are the static and animated logical diagrams I created for this project. The breakdown of the devices and connections are as follows:
-- Vultr - cloud provider for Windows and Ubuntu Server
-- VPC - contains
+- Vultr - cloud provider for Windows and Ubuntu Servers
+- VPC - contains the Elastic/Kibana, osTicket, and Fleet Servers
 - The Windows and Ubuntu Servers are connected to the Fleet Server with managed connections
 - The Fleet Server is connected to the Elastic/Kibana Server with a bidirectional connection that indicates there are managed agents
 - The osTicket Server is connected to the Elastic/Kibana Server with a bidirectional connection that indicates alerts/tickets information is being passed between the two
