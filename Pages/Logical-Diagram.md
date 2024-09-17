@@ -40,14 +40,18 @@ The diagram should also include the following information about the VPC network:
 This section will cover where the devices for this project are placed in the enviroment and how data flows between them. Let's start by taking a look at the completed static and animated logical diagrams I created for this project.
 <br>
 <br>
+<br> 
 
 ![Logical_Diagram drawio(1)](https://github.com/user-attachments/assets/1dda831b-32b2-4deb-9abc-e0191839beb5)
 
 *Image 1: Static Logical Diagram*
 <br>
 <br>
+<br>
+![Logical_Diagram_Animated](https://github.com/user-attachments/assets/1218176a-9e64-4d2c-a8c4-c4ccdf07e005)
 
 *Image 2: Animated Logical Diagram*
+<br>
 
 The breakdown of the devices and connections are as follows:
 - Vultr - cloud provider for Windows and Ubuntu Servers
