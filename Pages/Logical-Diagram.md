@@ -37,11 +37,11 @@ The diagram should also include the following information about the VPC network:
 - Subnet Mask: 255.255.255.0
 
 ## Device Connections and Data Flow
-This section will cover where the devices for this project are placed in the enviroment and how data flows between them. 
+This section will cover where the devices for this project are placed in the enviroment and how data flows between them. Let's start by taking a look at the completed static and animated logical diagrams I created for this project.
 <br>
 <br>
 
-![Logical_Diagram drawio](https://github.com/user-attachments/assets/4306548f-f2d7-4376-900d-161734268370)
+![Logical_Diagram drawio(1)](https://github.com/user-attachments/assets/1dda831b-32b2-4deb-9abc-e0191839beb5)
 
 *Image 1: Static Logical Diagram*
 <br>
@@ -49,7 +49,7 @@ This section will cover where the devices for this project are placed in the env
 
 *Image 2: Animated Logical Diagram*
 
-The images above are the static and animated logical diagrams I created for this project. The breakdown of the devices and connections are as follows:
+The breakdown of the devices and connections are as follows:
 - Vultr - cloud provider for Windows and Ubuntu Servers
 - VPC - contains the Elastic/Kibana, osTicket, and Fleet Servers
 - The Windows and Ubuntu Servers are connected to the Fleet Server with managed connections
