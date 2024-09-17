@@ -54,7 +54,7 @@ This section will cover where the devices for this project are placed in the env
 <br>
 
 The breakdown of the devices and connections are as follows:
-- Vultr - cloud provider for Windows and Ubuntu Servers
+- Vultr - cloud provider for Windows and Ubuntu Servers (these servers have initially been placed into the VPC for the diagram but will be pulled out into the Vultr environment in an updated diagram  )
 - VPC - contains the Elastic/Kibana, osTicket, and Fleet Servers
 - The Windows and Ubuntu Servers are connected to the Fleet Server with managed connections
 - The Fleet Server is connected to the Elastic/Kibana Server with a bidirectional connection that indicates there are managed agents
