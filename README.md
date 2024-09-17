@@ -24,7 +24,7 @@ The MYDIFIR SOC Analyst Challenge, created by Steven of the YouTube channel <a h
 ## Challenge Tasks
 **Day One:** <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge/blob/main/Pages/Logical-Diagram.md">Logical Diagram</a>
 
-**Day Two-Four:** Elasticserach and Kibana Setup
+**Day Two-Four:** <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge/blob/main/Pages/Elasticserach-and-Kibana-Setup.md">Elasticserach and Kibana Setup</a>
 
 **Day Five:** Windows Server 2002 Installation
 
